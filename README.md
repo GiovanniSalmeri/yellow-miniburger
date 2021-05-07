@@ -4,10 +4,10 @@ One-level hamburger menu.
 
 ## How to add a hambuger menu
 
-The hambuger menu is created by the layout `system/layout/miniburger.html`. In order to use it you can do either of the following:
+The hambuger menu is created by the layout `system/layouts/miniburger.html`. In order to use it you can do either of the following:
 
-1. Rename it to `system/layout/navigation.html`
-2. In `system/layout/header.html` change `$this->yellow->layout("navigation")` to `$this->yellow->layout("miniburger")`
+1. Rename it to `system/layouts/navigation.html`
+2. In `system/layouts/header.html` change `$this->yellow->layout("navigation")` to `$this->yellow->layout("miniburger")`
 
 ## Installation
 
