@@ -2,7 +2,7 @@ Miniburger 0.8.16
 =================
 One-level hamburger menu.
 
-## How to add a hambuger menu
+## How to show a hambuger menu
 
 The hambuger menu is created by the layout `system/layouts/miniburger.html`. In order to use it you can do either of the following:
 
