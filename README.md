@@ -11,7 +11,7 @@ The hambuger menu is created by the layout `system/layouts/miniburger.html`. In 
 
 ## Installation
 
-[Download extension](https://github.com/GiovanniSalmeri/yellow-miniburger/archive/master.zip) and copy zip file into your `system/extensions` folder. Right click if you use Safari.
+[Download extension](https://github.com/GiovanniSalmeri/yellow-miniburger/archive/main.zip) and copy zip file into your `system/extensions` folder. Right click if you use Safari.
 
 This extension copies shamelessly from [Responsive Navigation Bar](https://www.w3schools.com/howto/howto_js_topnav_responsive.asp) by W3Schools; see [Terms of service](https://www.w3schools.com/about/about_copyright.asp).
 
