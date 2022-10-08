@@ -17,4 +17,4 @@ This extension copies shamelessly from [Responsive Navigation Bar](https://www.w
 
 ## Developer
 
-Giovanni Salmeri. [Get help](https://github.com/GiovanniSalmeri/yellow-miniburger/issues).
+Giovanni Salmeri. [Get help](https://datenstrom.se/yellow/help/)
