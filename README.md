@@ -4,7 +4,7 @@ One-level hamburger menu.
 
 ## How to install an extension
 
-[Download ZIP file](https://github.com/GiovanniSalmeri/yellow-miniburger/archive/main.zip) and copy it into your `system/extensions` folder. [Learn more about extensions](https://github.com/annaesvensson/yellow-update).
+[Download ZIP file](https://github.com/GiovanniSalmeri/yellow-miniburger/archive/refs/heads/main.zip) and copy it into your `system/extensions` folder. [Learn more about extensions](https://github.com/annaesvensson/yellow-update).
 
 ## How to show a hambuger menu
 
